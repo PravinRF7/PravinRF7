@@ -1,4 +1,4 @@
-![Banner Image](https://imgur.com/a/IeB0ZWJ)
+
 
 <h1 align="center">Hello this is Pravin !</h1>
 <h3 align="center">A passionate MACHINE LEARNING Engineer</h3>
