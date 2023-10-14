@@ -1,4 +1,4 @@
-![Github Header7]()
+![Github Header7](https://github.com/PravinRF7/PravinRF7/blob/main/Blue%20%26%20Black%20Simple%20Profile%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hello this is Pravin !</h1>
 <h3 align="center">A passionate MACHINE LEARNING Engineer</h3>
